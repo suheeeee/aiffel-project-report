@@ -1,5 +1,4 @@
 # aiffel-project-report
----
 
 The project report repository for aiffel exploration nodes
 
